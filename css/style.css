@@ -1,0 +1,46 @@
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(209, 235, 238);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: space-between;
+}
+.game-title{
+  margin: 45px;
+  color: rgb(31, 77, 101);
+}
+
+.content{
+  height: 585px;
+  display: flex;
+  flex-direction: column;
+  color: black;
+
+}
+
+.playerVsComputer{
+  display: flex;
+  gap: 3rem;
+}
+
+.result{
+  border: 3px solid black;
+  height: 100px;
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  border: none;
+  padding: 10px 15px;
+  background-color: rgb(110, 167, 195);
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
