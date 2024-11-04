@@ -1,5 +1,4 @@
 
-#Développement de l'Application Pierre-Papier-Ciseaux
 
 Développement de l'application : Création d'un jeu où l'utilisateur affronte l'ordinateur dans une partie de Pierre-Papier-Ciseaux.
 
