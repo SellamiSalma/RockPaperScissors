@@ -1,13 +1,12 @@
+Rock-Paper-Scissors Game Application
 
+This application allows users to compete against the computer in a classic game of Rock-Paper-Scissors. The first player to reach a score of 5 wins the game.
 
-Développement de l'application : Création d'un jeu où l'utilisateur affronte l'ordinateur dans une partie de Pierre-Papier-Ciseaux.
-
-Condition de victoire : La partie se termine lorsqu'un joueur atteint un score de 5.
-
-Structure HTML : Utilisation de HTML pour définir la structure de base de l'application.
-
-Style CSS et Flexbox : Stylisation de l'application avec CSS et création d'une disposition flexible et réactive grâce à Flexbox.
-
-Logique du jeu en JavaScript : Implémentation de la logique du jeu avec JavaScript pour gérer les règles et les interactions.
-
-Interactivité DOM : Renforcement de l'interactivité en manipulant le DOM pour réagir aux actions de l'utilisateur.
+Features
+Victory Condition: The game concludes when either the user or the computer achieves a score of 5.
+Interactive Gameplay: Players can easily make their choices and see the results in real time.
+Technologies Used
+HTML: Established the basic structure of the application.
+CSS: Styled the application to create a visually appealing interface.
+JavaScript: Implemented the core game logic to manage game rules and player interactions.
+Handled user input and displayed results dynamically by manipulating the DOM.
